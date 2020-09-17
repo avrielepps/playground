@@ -1,4 +1,4 @@
-# Playground
+# Playground: last updated during PP3
 
 A place to play with `git`.
 
