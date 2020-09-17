@@ -4,4 +4,4 @@ A place to play with `git`.
 
 ### Fall 2021!!
 
-# BEN WAS HERE. He is a star.
+# BEN Was a very big star.
